@@ -17,4 +17,4 @@
  
   function test(){
     consol.log("hello");
-    };
+    }
