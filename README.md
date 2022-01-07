@@ -10,4 +10,4 @@
 - 해골
 - 원숭이
 
-[바다를 갈라요] (https://github.com/explore)
+[하이퍼링크는 소괄호] (https://github.com/explore)
